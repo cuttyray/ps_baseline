@@ -1,0 +1,3 @@
+#TYPE System.Management.Automation.ScriptBlock
+"Attributes","File","IsFilter","IsConfiguration","Module","StartPosition","DebuggerHidden","Id","Ast"
+"System.Collections.Generic.List`1[System.Attribute]","C:\Dev\PS_Remote_Collection_and_Analysis\02_Create_Baseline_Scripts\create_baseline_interfaces.ps1","False","False",,"System.Management.Automation.PSToken","False","ecbcc539-1805-42ba-bbcb-48fc4ed77e1e","{Get-NetIPConfiguration}"
